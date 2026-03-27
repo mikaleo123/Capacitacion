@@ -1,0 +1,9 @@
+models → estructura de la DB
+controllers → lógica
+routes → endpoints
+config → conexión
+
+
+database.js = conecta Node con MySQL
+index.js = arranca el servidor
+sequelize.authenticate() = prueba si conecta
